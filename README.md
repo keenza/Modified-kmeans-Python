@@ -1,4 +1,4 @@
-# kmeans_modified
+# Modified-kmeans
 Implémentation de l'algorithme de classification kmeans modifié en utilisant Python
 
 # the article on wich im based
